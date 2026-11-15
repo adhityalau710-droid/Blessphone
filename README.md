@@ -1,7 +1,3 @@
-[index.html.html](https://github.com/user-attachments/files/34864694/index.html.html)
-# Blessphone
-Website Blessphone
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
